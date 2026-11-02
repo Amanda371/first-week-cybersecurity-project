@@ -64,3 +64,6 @@ This project gave me practical experience building a cybersecurity testing envir
 **Learning by doing. Securing the digital world, one project at a time!**
 
 #KaliLinux #CyberSecurity #EthicalHacking #VirtualBox #Linux #Networking #PenetrationTesting #CyberSecurityJourney #GitHub #InfoSec
+## Screenshot of my lab Setup 
+![Lab Setup](Sreenshot%202026-11-01%20102253.png) 
+
