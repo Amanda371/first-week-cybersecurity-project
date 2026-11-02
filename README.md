@@ -6,7 +6,7 @@ As part of my cybersecurity learning journey, I completed Week 1 – Project Mod
 
 The goal was to create an isolated virtual environment for practising ethical hacking, network reconnaissance, penetration testing, and cybersecurity techniques.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Oracle VirtualBox** – Virtualisation platform.
 - **Kali Linux** – Attacker machine for cybersecurity testing.
@@ -65,5 +65,5 @@ This project gave me practical experience building a cybersecurity testing envir
 
 #KaliLinux #CyberSecurity #EthicalHacking #VirtualBox #Linux #Networking #PenetrationTesting #CyberSecurityJourney #GitHub #InfoSec
 ## Screenshot of my lab Setup 
-![Lab Setup](Sreenshot%202026-11-01%20102253.png) 
+![Lab setup](Lab.png)
 
